@@ -1,4 +1,8 @@
-.introduction{
-  color: magenta
-  
+.introduction {
+  text-align: center;
+  font-size: 60px;
+  font-style: oblique;
+  text-decoration: underline;
+  color: aqua;
+
 }
