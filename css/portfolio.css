@@ -21,3 +21,20 @@ h1{
   color: indianred;
   text-decoration: underline overline;
 }
+
+.background{
+  height:100%;
+  width: 100%;
+  /* position: relative; */
+  /* overflow.y: auto; */
+
+}
+body{
+  height: 100%;
+  width: 100%;
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url(https://www.pixelstalk.net/wp-content/uploads/2016/04/Download-desktop-ocean-backgrounds-wallpapers.jpg);
+
+}
