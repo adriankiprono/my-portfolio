@@ -9,3 +9,10 @@
 #blackhole{
   height: 750px;
 }
+h1{
+  text-align: left;
+  font-size: 50px;
+  font-style: oblique 60deg;
+  text-decoration:  red wavy underline;
+  text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+}
