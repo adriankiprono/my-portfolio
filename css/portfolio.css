@@ -36,7 +36,7 @@ body{
   background-size: cover;
   background-repeat: no-repeat;
   background-image: url(https://www.pixelstalk.net/wp-content/uploads/2016/04/Download-desktop-ocean-backgrounds-wallpapers.jpg);
-
+  border: 20px;
 }
 p{
   font-size: 30px;
